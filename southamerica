@@ -1,4 +1,4 @@
-# @(#)southamerica	7.10
+# @(#)southamerica	7.11
 
 # This data is by no means authoritative; if you think you know better,
 # go ahead and edit the file (and please send any changes to
@@ -354,7 +354,6 @@ Zone America/Port_of_Spain -4:06:04 -	LMT	1912 Mar 2
 # Uruguay
 # From Paul Eggert <eggert@twinsun.com> (November 18, 1993):
 # Uruguay wins the prize for the strangest peacetime manipulation of the rules.
-# Your guess is as good as mine for what happened after 1989.
 # From Shanks (1991):
 # Rule	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
 Rule	Uruguay	1920	only	-	May	 1	 0:00	0	S
